@@ -1,0 +1,14 @@
+D:\Samples\ArquiteturaDDD\Application\bin\Debug\Application.dll
+D:\Samples\ArquiteturaDDD\Application\bin\Debug\Application.pdb
+D:\Samples\ArquiteturaDDD\Application\bin\Debug\Domain.dll
+D:\Samples\ArquiteturaDDD\Application\bin\Debug\Domain.pdb
+D:\Samples\ArquiteturaDDD\Application\obj\Debug\Application.csprojResolveAssemblyReference.cache
+D:\Samples\ArquiteturaDDD\Application\obj\Debug\Application.dll
+D:\Samples\ArquiteturaDDD\Application\obj\Debug\Application.pdb
+D:\Samples\sampleddd\Application\bin\Debug\Application.dll
+D:\Samples\sampleddd\Application\bin\Debug\Application.pdb
+D:\Samples\sampleddd\Application\bin\Debug\Domain.dll
+D:\Samples\sampleddd\Application\bin\Debug\Domain.pdb
+D:\Samples\sampleddd\Application\obj\Debug\Application.csprojResolveAssemblyReference.cache
+D:\Samples\sampleddd\Application\obj\Debug\Application.dll
+D:\Samples\sampleddd\Application\obj\Debug\Application.pdb

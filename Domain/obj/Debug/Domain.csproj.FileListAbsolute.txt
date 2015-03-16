@@ -1,0 +1,10 @@
+D:\Samples\ArquiteturaDDD\Domain\bin\Debug\Domain.dll
+D:\Samples\ArquiteturaDDD\Domain\bin\Debug\Domain.pdb
+D:\Samples\ArquiteturaDDD\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache
+D:\Samples\ArquiteturaDDD\Domain\obj\Debug\Domain.dll
+D:\Samples\ArquiteturaDDD\Domain\obj\Debug\Domain.pdb
+D:\Samples\sampleddd\Domain\bin\Debug\Domain.dll
+D:\Samples\sampleddd\Domain\bin\Debug\Domain.pdb
+D:\Samples\sampleddd\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache
+D:\Samples\sampleddd\Domain\obj\Debug\Domain.dll
+D:\Samples\sampleddd\Domain\obj\Debug\Domain.pdb
